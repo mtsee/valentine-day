@@ -1,0 +1,3 @@
+import './index.html';
+import './less/main.less';
+import './main/main.js'; // ...
