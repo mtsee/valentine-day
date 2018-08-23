@@ -1,9 +1,8 @@
-# 七夕说情话
+# 情人节土味情话大集合，程序员表白神器！
 
 ## 扫描二维码看效果
-![avatar](/src/assets/images/qrcode.jpg)
 
-### 纯ES6脚手架
+![avatar](/src/assets/images/qrcode.jpg)
 
 ### npm i 安装依赖
 
